@@ -14,6 +14,10 @@ There are total 94 Vine reviews.
  
 Among the 94 Vine reviews, 48 are 5-star reviews.
 
+![image](https://user-images.githubusercontent.com/108709071/196334582-12f7a8bf-a890-408e-a72e-f245ceb60060.png)
+
+Percentage of 5-star Vine reviews is 51.06%
+
 
 
 ## Summary:
