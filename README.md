@@ -7,6 +7,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
  
  ## Results:
  ![image](https://user-images.githubusercontent.com/108709071/196334228-0cff8c50-450a-4ffe-a8b2-017140b0bee9.png)
+ 
  There are total 94 Vine reviews
 
 
