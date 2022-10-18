@@ -18,6 +18,10 @@ Among the 94 Vine reviews, 48 are 5-star reviews.
 
 Percentage of 5-star Vine reviews is 51.06%
 
+![image](https://user-images.githubusercontent.com/108709071/196334678-52d06204-850d-4b01-8094-2ad56d7ab4c1.png)
+
+There are total 40471 non-Vine reviews
+
 
 
 ## Summary:
