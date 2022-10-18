@@ -31,3 +31,6 @@ Among the 40,471 non-Vine reviews, 15,663 are 5-star reviews.
 38.70% of the non-Vine reviews are 5-star review.
 
 ## Summary:
+ - There are only 94 Vine reviews while there are 40,471 non-Vine reviews, but the percentage of 5-star Vine reviews is 51.06% and the percentage of 5-star non-Vine  review is 38.70. The result shows that there is positive bias in the Vine programe.
+
+ - We can perform further analysis on 5-star reviews on those verified_purchase.
